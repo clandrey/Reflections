@@ -20,3 +20,9 @@ What are some situations when branches would be helpful in keeping your history 
 
 	Branches could help organize multiple versions of a project. As an example, there
 	might be a branch for an easy-mode in a game that's separate from the standard version.
+
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams show how branches stem off from each other and each commit is a progression
+	on its "parent". It also helps in visualizing the last unified commit before two
+	branches split off from each other.
