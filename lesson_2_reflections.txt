@@ -26,3 +26,10 @@ How do the diagrams help you visualize the branch structure?
 	Diagrams show how branches stem off from each other and each commit is a progression
 	on its "parent". It also helps in visualizing the last unified commit before two
 	branches split off from each other.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging branches combines all the alterations made on different branches of a
+	project into one branch. It renders the previous branch name obsolete. It is
+	diagrammed to show a joining of the two with all prior commits intact because
+	it combines the commit history of both branches into the git log.
