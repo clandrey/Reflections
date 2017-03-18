@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	It creates a .git directory which tracks metadata for all the files located
+	within the initial directory. It does not, however, create a commit until you
+	tell it to do so. This is the step that makes it possible to engage a directory
+	through git commands... I think?
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area allows the user greater control of a commit. You can select exactly
+	what files are being committed and, in turn, align best practice of keeping commits
+	small. The staging area is conducive to allowing one commit per logical change.
+
