@@ -33,3 +33,9 @@ What is the result of merging two branches together? Why do we represent it in t
 	project into one branch. It renders the previous branch name obsolete. It is
 	diagrammed to show a joining of the two with all prior commits intact because
 	it combines the commit history of both branches into the git log.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pro: automating the process saves time; Git takes a logical approach to merges and
+	involves user to resolve any conflicts beyond its grasp
+	Con: ... there isn't really one?
