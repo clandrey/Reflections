@@ -4,3 +4,9 @@ When would you want to use a remote repository rather than keeping all your work
   interact with the project. It could even be helpful when working on a completely
   individual project by creating a hub for the project that you can interact with 
   from multiple computers.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	Pulling changes manually could be helpful to ensure that your work on a project
+	isn't thrown off by project updates made by another user. Waiting to sync until
+	your work is ready could be prudent.
