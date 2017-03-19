@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+  Using a remote repository facilitates collaboration by allowing multiple users to 
+  interact with the project. It could even be helpful when working on a completely
+  individual project by creating a hub for the project that you can interact with 
+  from multiple computers.
