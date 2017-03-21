@@ -25,3 +25,9 @@ instead of another?
 	Branches are good for developing and working on separate functions or parts of
 	an existing project.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	Having a copy of the last known state of the remote stored locally facilitates merging
+	local and remote commits in the case that they are in conflict with each other. If the
+	two versions diverge, they can be combined by a git fetch & git merge or a git pull
+	which combines those two processes.
