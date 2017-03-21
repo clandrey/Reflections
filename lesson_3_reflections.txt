@@ -31,3 +31,12 @@ What is the benefit of having a copy of the last known state of the remote store
 	local and remote commits in the case that they are in conflict with each other. If the
 	two versions diverge, they can be combined by a git fetch & git merge or a git pull
 	which combines those two processes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+
+	Without Git or GitHub, I'd collaborate by sending files over email or using a file
+	sharing option like GoogleDocs. It would be easier to quickly add my ideas, but
+	it would be harder to maintain the collaborative process. Pure file sharing can
+	work if the only goal is feedback, but if multiple people are actively engaging
+	with a project, Git or GitHub has the better setup.
