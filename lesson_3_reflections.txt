@@ -40,3 +40,12 @@ would be harder?
 	it would be harder to maintain the collaborative process. Pure file sharing can
 	work if the only goal is feedback, but if multiple people are actively engaging
 	with a project, Git or GitHub has the better setup.
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+	Working in a separate branch from the master branch can be helpful in refining a
+	new feature. You have the freedom to experiment and develop while the master branch
+	remains intact. The downside is that you'll have to eventually merge the two projects
+	and other people could have been working on the master branch in the meantime resulting
+	in a complex merging process.
